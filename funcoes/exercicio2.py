@@ -2,7 +2,7 @@ def calcularMedia(nota1,nota2,nota3,nota4):
     media = (nota1+nota2+nota3+nota4)/4
     return media
 
-def resultado(media)
+def resultado(media):
     if (media >= 5):
         return "Aprovado"
     else:
